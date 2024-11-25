@@ -1,1 +1,1 @@
-# hastalikdurum
+# hastalikdurumyedekuygulama
